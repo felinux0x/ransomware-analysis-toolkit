@@ -1,8 +1,4 @@
-# Ransomware Educacional Avançado
-
-!Python
-!License
-!Status
+# Ransomware Analysis Toolkit
 
 > **AVISO LEGAL CRÍTICO**
 > 
