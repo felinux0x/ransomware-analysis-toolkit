@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Arquivos do ransomware
+test_files/
+*.key
+*.enc
+*.json
+.key_*
+.log_*
+master_private.key
+WALLPAPER.html
+!!!RANSOM_NOTE!!!.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
